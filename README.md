@@ -15,3 +15,7 @@ JavaFX application that allows users to compare the Body Mass Index (BMI) of ind
 - The `saveChartAsImage()` method is a utility method that saves the JavaFX chart as an image file using the WritableImage and ImageIO classes.
 - The BMIRecord class is a nested class within BMIComparisonApp. It represents a record of an individual's BMI information, including their name, weight, height, age, and calculated BMI.
 - The BMIRecord class provides methods to access the record's attributes and calculate the BMI based on the weight and height.
+- Demo test run result:
+
+![image](https://github.com/af4092/BMI-App/assets/24220136/2a535aef-0581-4ee9-aaf5-0fd6bb9142e6)
+

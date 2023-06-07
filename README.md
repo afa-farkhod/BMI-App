@@ -19,3 +19,7 @@ JavaFX application that allows users to compare the Body Mass Index (BMI) of ind
 
 ![image](https://github.com/af4092/BMI-App/assets/24220136/2a535aef-0581-4ee9-aaf5-0fd6bb9142e6)
 
+- Demo video showing test run
+
+https://github.com/af4092/BMI-App/assets/24220136/073aa601-999e-4e66-a6cb-2a78e2efc56f
+

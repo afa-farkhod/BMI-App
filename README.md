@@ -1,7 +1,16 @@
 # BMI-App
 JavaFX application that allows users to compare the Body Mass Index (BMI) of individuals and export the results to a Word document. 
 
-- [Body Mass Index](https://en.wikipedia.org/wiki/Body_mass_index) - 
+- [Body Mass Index](https://en.wikipedia.org/wiki/Body_mass_index) - is a value derived from the mass (weight) and height of a person. The BMI is defined as the body mass divided by the square of the body height, and is expressed in units of kg/m2, resulting from mass in kilograms and height in metres.
+- The BMI is a convenient rule of thumb used to broadly categorize a person as underweight, normal weight, overweight, or obese based on tissue mass (muscle, fat, and bone) and height. Major adult BMI classifications are underweight (under 18.5 kg/m2), normal weight (18.5 to 24.9), overweight (25 to 29.9), and obese (30 or more). When used to predict an individual's health, rather than as a statistical measurement for groups, the BMI has limitations that can make it less useful than some of the alternatives, especially when applied to individuals with abdominal obesity, short stature, or unusually high muscle mass.
+- BMI Formula:
+
+  ![image](https://github.com/af4092/BMI-App/assets/24220136/08dce797-25b7-49c3-898e-2d0da6e96b72)
+
+- BMI Chart:
+
+  ![image](https://github.com/af4092/BMI-App/assets/24220136/51d572df-2adc-48f4-bf04-665e1664b749)
+
 - BMI Comparison application that allows users to enter individuals' BMI information, compare the BMI values using a bar chart, and export the chart along with the data to a Word document.
 - GUI Application main view:
 

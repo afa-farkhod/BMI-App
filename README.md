@@ -11,6 +11,10 @@ JavaFX application that allows users to compare the Body Mass Index (BMI) of ind
 
   ![image](https://github.com/af4092/BMI-App/assets/24220136/51d572df-2adc-48f4-bf04-665e1664b749)
 
+- BMI Basic Categories:
+
+  ![image](https://github.com/af4092/BMI-App/assets/24220136/a12ee95c-5d70-45d2-83e4-0f7e7c2efd03)
+
 - BMI Comparison application that allows users to enter individuals' BMI information, compare the BMI values using a bar chart, and export the chart along with the data to a Word document.
 - GUI Application main view:
 
